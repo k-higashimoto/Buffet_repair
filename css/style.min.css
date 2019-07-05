@@ -1,0 +1,23 @@
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.row-eq-height {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.img404 {
+    background-image: url("../img/404.jpg");
+    background-size: cover;
+}
+
+.text404 {
+    text-shadow: 2px    2px   0 #000,
+    -1px    1px   0 #000,
+     1px   -1px   0 #000,
+    -1px   -1px   0 #000;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Sawarabi+Gothic&display=swap');
+
